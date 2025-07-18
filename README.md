@@ -10,9 +10,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/IFquLM-xF30/0.jpg)](https://www.youtube.com/watch?v=IFquLM-xF30)
 
-### ☕ Support My Work  
-If you find this project helpful, consider supporting me:  
-[Buy Me a Coffee](https://buymeacoffee.com/concepttoco)
+
 
 
 ## 📋 Overview
